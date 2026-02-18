@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-OSINT/2-Obtención de correos de una empresa.md",
+                "file": "6-OSINT/11-Enumeración google drive con google dorking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-Obtención de correos de una empresa"
+              "title": "11-Enumeración google drive con google dorking"
             }
           }
         ]
@@ -183,22 +183,33 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e44b2d7e074d028c",
+  "active": "718fc447381fe7d3",
   "lastOpenFiles": [
-    "Pasted image 20260216105200.png",
-    "Pasted image 20260216104501.png",
-    "Pasted image 20260216103612.png",
-    "Pasted image 20260216103228.png",
-    "Pasted image 20260216102438.png",
-    "Pasted image 20260216101618.png",
+    "Archivos/Pasted image 20260210192525.png",
+    "Archivos/Pasted image 20260210192300.png",
+    "Archivos/Pasted image 20260210191406.png",
+    "Archivos/Pasted image 20260210191220.png",
+    "Archivos/Pasted image 20260210190945.png",
+    "Archivos/Pasted image 20260210190825.png",
+    "Archivos/Pasted image 20260210190648.png",
+    "Archivos/Pasted image 20260210190608.png",
+    "Archivos/Pasted image 20260210190541.png",
+    "Archivos/Pasted image 20260210190447.png",
+    "Archivos/Pasted image 20260210185832.png",
+    "6-OSINT/10-Enumeración dominios vulnerables XSS con google dorking.md",
+    "6-OSINT/9-Google hacking database.md",
+    "6-OSINT/8-crt.sh.md",
+    "6-OSINT/7-Google dorking encotrar volcados de bases de datos.md",
+    "6-OSINT/13-Acceder a documentos eliminados de un objetivo.md",
+    "6-OSINT/12-Cómo usar holehe.md",
+    "6-OSINT/11-Enumeración google drive con google dorking.md",
+    "6-OSINT/9-Google dorking directory listing.md",
+    "6-OSINT/6-Google dorking encontrar direcciones de correo de un dominio.md",
+    "6-OSINT/5-Google dorking, filtrado por dominio, tipo de archivos y extensiones.md",
+    "6-OSINT/4-Filtraciones de contraseñas de fuentes publicas.md",
     "6-OSINT/3-Obtener información del propietario de un email.md",
     "6-OSINT/2-Obtención de correos de una empresa.md",
     "6-OSINT/1-theHarvester.md",
-    "Archivos/Pasted image 20260216100546.png",
-    "Archivos/Pasted image 20260216100446.png",
-    "Archivos/Pasted image 20260216100429.png",
-    "Archivos/Pasted image 20260216100300.png",
-    "Archivos/Pasted image 20260216094651.png",
     "4-Hacking Ético/1-Inicio/5-HTTP-HTTPS.md",
     "4-Hacking Ético/1-Inicio/3-FTP.md",
     "4-Hacking Ético/1-Inicio/2-Ejemplos protocolos de red.md"

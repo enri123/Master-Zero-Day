@@ -9,7 +9,7 @@ Usando hunter.io en el apartado de Finder podemos buscar empresas o personas
 
 
 Opción 2
-RocketReach es otra página en la que podemos buscar correos tanto a personas como de empresas
+**RocketReach** es otra página en la que podemos **buscar correos** tanto a **personas** como de **empresas**
 ![[Pasted image 20260216103228.png]]
 
 ![[Pasted image 20260216103612.png]]
