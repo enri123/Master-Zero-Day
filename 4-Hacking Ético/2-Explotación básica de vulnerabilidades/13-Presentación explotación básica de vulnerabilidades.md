@@ -1,0 +1,5 @@
+- Primera explotación de una vulnerabilidad
+- Creación de nuestro primer Payload
+- Enumeración de una web, dominios y subdominios
+- Ataques de fuerza bruta
+- Webshell y Acceso a Servidor
