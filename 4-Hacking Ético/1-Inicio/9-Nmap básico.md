@@ -1,6 +1,7 @@
 Con **Nmap** podemos **obtener** los **puertos abiertos** de una **ip**
 ![[Pasted image 20260221165534.png]]
 
+Estos son los puertos abiertos de esta maquina
 ![[Pasted image 20260221165605.png]]
 
 

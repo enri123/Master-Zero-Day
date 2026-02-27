@@ -1,0 +1,4 @@
+Con este google dorking podemos encontrar dominios vulnerables a **Cross-Site Scripting (XSS)***
+**inurl:?msg=Invalid username or password**
+
+Los ataques de **Cross-Site Scripting (XSS)** son una de las vulnerabilidades más comunes y peligrosas en aplicaciones web, afectando hasta dos tercios de las aplicaciones según el OWASP Top 10.  Permiten a un atacante inyectar código malicioso (normalmente JavaScript) en páginas web legítimas, que luego se ejecuta en el navegador de los usuarios. Esto permite al atacante comprometer sesiones, robar cookies, acceder a datos sensibles, robar contraseñas, minar criptomonedas, instalar software malicioso o incluso modificar el contenido visual de la página.
