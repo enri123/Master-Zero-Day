@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Windows/20-Introducción Active Directory.md",
+                "file": "4-Hacking Ético/3-Presentación Wordpress/41-Vulnerabilidad de Academias de Wordpress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20-Introducción Active Directory"
+              "title": "41-Vulnerabilidad de Academias de Wordpress"
             }
           }
         ]
@@ -185,8 +185,14 @@
   },
   "active": "e44b2d7e074d028c",
   "lastOpenFiles": [
-    "3-Windows/21-Creación Active Directory.md",
+    "4-Hacking Ético/3-Presentación Wordpress/40-Creación de plugins maliciosos en wordpress.md",
+    "4-Hacking Ético/3-Presentación Wordpress/39-Proceso de explotación de vulnerabilidades mediante plugins vulnerables en wordpress.md",
+    "4-Hacking Ético/3-Presentación Wordpress/38-Proceso de enumeración de plugins de wordpress, tanto con wpscan sin ello.md",
+    "4-Hacking Ético/3-Presentación Wordpress/37-Acceso al servidor desde panel interno de wordpress.md",
+    "4-Hacking Ético/3-Presentación Wordpress/36-Enumeración de usuarios, xmlrpc, enumeración de usuarios y fuerza bruta en wordpress.md",
+    "4-Hacking Ético/2-Explotación básica de vulnerabilidades/26-Obtención de acceso remoto al servidor a partir de reverse shell automática.md",
     "3-Windows/20-Introducción Active Directory.md",
+    "3-Windows/21-Creación Active Directory.md",
     "Pasted image 20260317140633.png",
     "Pasted image 20260317140621.png",
     "Pasted image 20260317140607.png",
@@ -215,12 +221,6 @@
     "3-Windows/4-Servicios.md",
     "3-Windows/3-Kernel.md",
     "3-Windows/2- SO y arranque.md",
-    "3-Windows/1-Introducción 1 y 2.md",
-    "1.1 Introducción a redes informaticas/2-Clasificación y hardware de las redes.md",
-    "1.1 Introducción a redes informaticas/1-Introducción uso de las redes de computadores.md",
-    "2-Linux y Bash/75-Automatizar el cracking de contraseñas en local.md",
-    "2-Linux y Bash/74-Herramienta para hacer cracking de contraseñas.md",
-    "1.1 Introducción a redes informaticas",
-    "2-Linux y Bash/73-Automatizar la creación y eliminación de usuarios.md"
+    "1.1 Introducción a redes informaticas"
   ]
 }
