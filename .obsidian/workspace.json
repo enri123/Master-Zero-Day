@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b7f0516dd9d244a5",
+        "id": "3b591b6a8a27b498",
         "type": "tabs",
         "children": [
           {
-            "id": "e44b2d7e074d028c",
+            "id": "04d9883d95b3b5bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9-Bug Bounty/1-Bug Bounty y programas VDP.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1-Bug Bounty y programas VDP"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -183,8 +179,20 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e44b2d7e074d028c",
+  "active": "718fc447381fe7d3",
   "lastOpenFiles": [
+    "Archivos/Pasted image 20260407115503.png",
+    "9-Bug Bounty/3-Enumerar subdominios y filtrar resultados válidos.md",
+    "Archivos/Pasted image 20260407115903.png",
+    "Archivos/Pasted image 20260407115812.png",
+    "Archivos/Pasted image 20260407115717.png",
+    "Archivos/Pasted image 20260407115530.png",
+    "Archivos/Pasted image 20260407115342.png",
+    "Archivos/Pasted image 20260407115333.png",
+    "Archivos/Pasted image 20260407115245.png",
+    "Archivos/Pasted image 20260407115231.png",
+    "Archivos/Pasted image 20260407115223.png",
+    "9-Bug Bounty/1-Bug Bounty y programas VDP.md",
     "4-Hacking Ético/4-Presentación Hacking Web/1-Burp suite, configuración y certificados HTTPS.md",
     "4-Hacking Ético/3-Presentación Wordpress/45-Hacking entornos Joomia.md",
     "4-Hacking Ético/3-Presentación Wordpress/44-Hacking en entornos Drupal II.md",
@@ -198,29 +206,16 @@
     "4-Hacking Ético/3-Presentación Wordpress/38-Proceso de enumeración de plugins de wordpress, tanto con wpscan sin ello.md",
     "4-Hacking Ético/4-Presentación Hacking Web/3-Como interceptar tráfico https con burp suite.md",
     "4-Hacking Ético/4-Presentación Hacking Web/11-Bypass restricción Open Redirect Ejemplo 2.md",
-    "Pasted image 20260407110630.png",
-    "Pasted image 20260407110620.png",
-    "Pasted image 20260407110512.png",
-    "Pasted image 20260407110441.png",
     "4-Hacking Ético/4-Presentación Hacking Web/10-Bypass restricción Open Redirect Ejemplo 1.md",
-    "Pasted image 20260407110305.png",
-    "Pasted image 20260407110254.png",
-    "Pasted image 20260407110201.png",
-    "Pasted image 20260407110152.png",
-    "Pasted image 20260407110134.png",
     "4-Hacking Ético/4-Presentación Hacking Web/9-Open redirect básico.md",
-    "Pasted image 20260407105824.png",
-    "9-Bug Bounty/3-Enumerar subdominios y filtrar resultados válidos.md",
     "9-Bug Bounty/2-Hackerone, hacktivity y cómo empezar.md",
     "9-Bug Bounty/4-Filtrar por dominios activos con httpx y docker.md",
-    "9-Bug Bounty/1-Bug Bounty y programas VDP.md",
     "4-Hacking Ético/2-Explotación básica de vulnerabilidades/26-Obtención de acceso remoto al servidor a partir de reverse shell automática.md",
     "3-Windows/20-Introducción Active Directory.md",
     "3-Windows/21-Creación Active Directory.md",
     "3-Windows/19-Seg.md",
     "3-Windows/18-Powershell.md",
     "3-Windows/17-Firewalls.md",
-    "3-Windows/16-Tools Diagnóstico.md",
     "1.1 Introducción a redes informaticas"
   ]
 }
