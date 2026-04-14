@@ -1,0 +1,10 @@
+- Eliminación del artefacto o vector de compromiso y persistencia como por ejemplo
+	- Webshells
+	- Backdoors
+	- Tareas programadas
+	- Servicios maliciosos
+	- Cuentas/IAM
+- Parches de vulnerabilidades explotadas
+- Limpieza o reinstalación de hosts si aplica
+- Revisión de sistemas relacionados
+- Verificación mediante hashes e integridad de evidencia
