@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Hacking Ético/6-Api/12-Qué es una api.md",
+                "file": "4-Hacking Ético/6-Api/16-Vulnerabilidad SSTI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-Qué es una api"
+              "title": "16-Vulnerabilidad SSTI"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 319.50390243530273
   },
   "right": {
     "id": "7e935e0059ee9ad8",
@@ -185,10 +185,20 @@
   },
   "active": "0677a7777dd901fe",
   "lastOpenFiles": [
-    "Pasted image 20260414125215.png",
-    "Pasted image 20260414125146.png",
-    "Pasted image 20260414125048.png",
-    "Pasted image 20260414124927.png",
+    "Pasted image 20260416121608.png",
+    "Pasted image 20260416121551.png",
+    "Pasted image 20260416121541.png",
+    "Pasted image 20260416121527.png",
+    "Pasted image 20260416121447.png",
+    "Pasted image 20260416121427.png",
+    "Pasted image 20260416121349.png",
+    "Pasted image 20260416121332.png",
+    "Pasted image 20260416121302.png",
+    "Pasted image 20260416121219.png",
+    "Pasted image 20260416121126.png",
+    "4-Hacking Ético/6-Api/14-Vulnerabilidad CSRF - PARTE 1.md",
+    "4-Hacking Ético/6-Api/13-Vulnerabilidad SSRF.md",
+    "4-Hacking Ético/6-Api/12-Qué es una api.md",
     "12-SOC/CSIRT/12- Recuperación.md",
     "4-Hacking Ético/6-Api",
     "12-SOC/CSIRT/13- Lecciones aprendidas.md",
@@ -211,17 +221,7 @@
     "12-SOC/CSIRT/7- Ciclo NIST.md",
     "12-SOC/CSIRT/8- Preparación.md",
     "12-SOC/CSIRT/6- Servicios CSIRT.md",
-    "Archivos/Pasted image 20260414114028.png",
     "12-SOC/CSIRT/4- CSIRT-CERT-CIRT.md",
-    "12-SOC/CSIRT/3- Que es IR (Incident Response).md",
-    "12-SOC/CSIRT/1-Objetivos.md",
-    "Pasted image 20260414111128.png",
-    "12-SOC/CSIRT/0- Fundamento de Respuesta a Incidentes y CSIRT.md",
-    "Archivos/Pasted image 20260414110518.png",
-    "Archivos/Pasted image 20260414110932.png",
-    "Archivos/Pasted image 20260414110924.png",
-    "Archivos/Pasted image 20260414110907.png",
-    "Archivos/Pasted image 20260414110855.png",
     "12-SOC/CSIRT",
     "1.1 Introducción a redes informaticas"
   ]
