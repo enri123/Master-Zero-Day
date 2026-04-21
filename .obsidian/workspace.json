@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modulo 3. Introducción al Hacking Ético/8-Persistencia en Linux/4-Persistencia mediante alias.md",
+                "file": "Modulo 3.2. Hacking Aplicaciones/1-Explotación Manual CVE-2018-7600.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-Persistencia mediante alias"
+              "title": "1-Explotación Manual CVE-2018-7600"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 508
+    "width": 200
   },
   "right": {
     "id": "7e935e0059ee9ad8",
@@ -183,8 +183,20 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "718fc447381fe7d3",
+  "active": "1d9a4cc079b1e8e8",
   "lastOpenFiles": [
+    "Pasted image 20260421125552.png",
+    "Pasted image 20260421125546.png",
+    "Pasted image 20260421125536.png",
+    "Pasted image 20260421125513.png",
+    "Pasted image 20260421125452.png",
+    "Pasted image 20260421125435.png",
+    "Pasted image 20260421125344.png",
+    "Pasted image 20260421125330.png",
+    "Pasted image 20260421125223.png",
+    "Pasted image 20260421125211.png",
+    "Pasted image 20260421125121.png",
+    "Modulo 3. Introducción al Hacking Ético/8-Persistencia en Linux/4-Persistencia mediante alias.md",
     "Modulo 3. Introducción al Hacking Ético/8-Persistencia en Linux/3-Persistencia ssh.md",
     "Modulo 3. Introducción al Hacking Ético/8-Persistencia en Linux/1-Persistencia con crontab.md",
     "Modulo 9. SOC/CSIRT/24- Resumen.md",
@@ -209,19 +221,7 @@
     "Modulo 9. SOC/CSIRT/6- Servicios CSIRT.md",
     "Modulo 9. SOC/CSIRT/4- CSIRT-CERT-CIRT.md",
     "Modulo 9. SOC/CSIRT/3- Que es IR (Incident Response).md",
-    "Modulo 9. SOC/CSIRT/2- Evento vs Incidente.md",
-    "Modulo 9. SOC/CSIRT/1-Objetivos.md",
-    "Archivos/Pasted image 20260421120547.png",
     "Modulo 6. Introducción al Forense Digital",
-    "Archivos/Pasted image 20260421115013.png",
-    "Archivos/Pasted image 20260421115001.png",
-    "Archivos/Pasted image 20260421114938.png",
-    "Archivos/Pasted image 20260421114936.png",
-    "Archivos/Pasted image 20260421114859.png",
-    "Archivos/Pasted image 20260421114850.png",
-    "Archivos/Pasted image 20260421114839.png",
-    "Archivos/Pasted image 20260421114831.png",
-    "Archivos/Pasted image 20260421114749.png",
     "Modulo 3. Introducción al Hacking Ético/6-Api",
     "Modulo 9. SOC/CSIRT",
     "Módulo 1. Introducción a redes informáticas"
