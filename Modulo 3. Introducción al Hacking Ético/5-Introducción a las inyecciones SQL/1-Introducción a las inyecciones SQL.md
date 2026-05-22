@@ -11,6 +11,7 @@
 
 ![[Pasted image 20260410111430.png]]
 
+'mario' ' or 1=1-- -
 ![[Pasted image 20260410111522.png]]
 
 ![[Pasted image 20260410111642.png]]
